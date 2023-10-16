@@ -1,0 +1,7 @@
+"./Crystalfontz128x128_ST7735.obj"
+"./HAL_MSP430G2_Crystalfontz128x128_ST7735.obj"
+"./proyecto_dani.obj"
+"./uart_stdio.obj"
+"../grlib_MKII.lib"
+"../lnk_msp430g2553.cmd"
+-llibc.a
